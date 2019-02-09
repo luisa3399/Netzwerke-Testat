@@ -1,0 +1,45 @@
+id,name,type,party,sex,age
+Platzeck,Matthias Platzeck,0,3,1,4
+Pofalla,Ronald Pofalla,0,1,1,4
+Praetorius,Barbara Praetorius,0,6,2,6
+Tillich,Stanislaw Tillich,0,1,1,4
+Hasselfeldt,Gerda Hasselfeldt,0,2,2,4
+Kampeter,Steffen Kampeter,0,1,1,3
+Kapferer,Stefan Kapferer,0,5,1,3
+Kempf,Dieter Kempf,0,6,1,4
+Nemat,Claudia Nemat,0,6,2,3
+Reiche,Katherina Reiche,0,1,2,2
+Roestel,Gunda Roestel,0,4,2,3
+Schweitzer,Eric Schweitzer,0,6,1,3
+Grothus,Antje Grothus,0,6,2,6
+Wodtke,Hannelore Wodtke,0,1,2,6
+Herntier,Christine Herntier,0,6,2,4
+Kreuzberg,Michael Kreuzberg,0,1,1,4
+Priggen,Reiner Priggen,0,4,1,4
+Vassiliadis,Michael Vassiliadis,0,3,1,3
+Scheidt,Andreas Scheidt,0,3,1,3
+Koerzell,Stefan Koerzell,0,3,1,3
+Kaiser,Martin Kaiser,0,6,1,3
+Weiger,Hubert Weiger,0,6,1,5
+Niebert,Kai Niebert,0,6,1,1
+Allmendinger,Jutta Allmendinger,0,6,2,4
+Matthes,Felix Matthes,0,6,1,3
+Schellnhuber,Hans Joachim Schellnhuber,0,6,1,4
+Niebuhr,Annekathrin Niebuhr,0,6,2,6
+Wehrspohn,Ralf Wehrspohn,0,6,1,2
+Laemmel,Andreas Laemmel,0,1,1,3
+Lenz,Andreas Lenz,0,2,1,1
+Miersch,Matthias Miersch,0,3,1,2
+Politik,Politik,1,6,3,6
+Verband,Verband,1,6,3,6
+Gewerkschaft,Gewerkschaft,1,6,3,6
+Umweltschutz,Umweltschutz,1,6,3,6
+Industrie,Industrie,1,6,3,6
+Energieunternehmen,Energieunternehmen,1,6,3,6
+Wissenschaft,Wissenschaft,1,6,3,6
+Regionalvertreter,Regionalvertreter,1,6,3,6
+CDU,CDU,1,6,3,6
+CSU,CSU,1,6,3,6
+SPD,SPD,1,6,3,6
+Gruene,Gruene,1,6,3,6
+FDP,FDP,1,6,3,6
