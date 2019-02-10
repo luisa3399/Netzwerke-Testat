@@ -1,0 +1,18 @@
+Kategorie,Wert,Bedeutung
+type,0,Person
+,1,Organisation
+sex,1,männlich
+,2,weiblich
+,3,NA
+age,1,Bis 39
+,2,40 bis 49
+,3,50 bis 59
+,4,60 bis 69
+,5,70 bis 79
+,6,NA
+party,1,CDU
+,2,CSU
+,3,SPD
+,4,Gruene
+,5,FDP
+,6,NA
